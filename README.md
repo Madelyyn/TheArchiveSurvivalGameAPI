@@ -16,3 +16,7 @@ Packet List:
 | `uptime_response`         | Server → Bot | Server uptime in milliseconds                                             |
 
 All packets are sent over the plugin messaging channel `archive:bot_api`.
+
+
+Example Mineflayer API:
+https://github.com/Madelyyn/TheArchiveSurvivalGameAPI-Mineflayer-Plugin
