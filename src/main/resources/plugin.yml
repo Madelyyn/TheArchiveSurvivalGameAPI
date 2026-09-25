@@ -1,0 +1,5 @@
+name: TheArchiveSurvivalGameAPI
+version: '${version}'
+
+main: dev.mad3lyyn.theArchiveSurvivalGameAPI.TheArchiveSurvivalGameAPI
+api-version: '1.20'
